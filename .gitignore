@@ -43,3 +43,16 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# Android signing keys
+android/key.properties
+*.keystore
+
+# iOS / Xcode
+ios/Pods/
+ios/Runner.xcworkspace/
+*.xcuserdata/
+DerivedData/
+
+# Firebase / API keys (only if you don’t want them public)
+android/app/google-services.json
+ios/GoogleService-Info.plist
