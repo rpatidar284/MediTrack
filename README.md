@@ -49,7 +49,7 @@ Technologies used in this project:
 
 ## ⬇️ Download
 
-You can download the most recent version of StuBuddy at [MediTrack.app/download](https://drive.google.com/file/d/1raza-IKWBuDR7rZXbksDtwlJq7gcuXCy/view?usp=drivesdk)
+You can download the most recent version of MediTrack at [MediTrack.app/download](https://drive.google.com/file/d/1raza-IKWBuDR7rZXbksDtwlJq7gcuXCy/view?usp=drivesdk)
 
 ---
 
